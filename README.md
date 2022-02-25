@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konnerex 
-- 👀 I’m interested in ... stuff
-- 🌱 I’m currently learning ... code
+- 👀 I’m interested in ... Tech and hardware sith some code
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... stuff
 - 📫 How to reach me ... thing's 
 
